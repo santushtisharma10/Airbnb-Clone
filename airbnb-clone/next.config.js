@@ -3,6 +3,7 @@ module.exports = {
   reactStrictMode: true,
   images : {
 
-    domains :['1000logos.net'],
+    domains :['s4.aconvert.com'],
+    // domains :['1000logos.net'],
   }
 }

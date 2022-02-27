@@ -7,7 +7,8 @@ function Header() {
 
         <div className="relative flex items-center h-10 cursor-pointer my-auto">
             <Image 
-            src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png"
+            src="https://s4.aconvert.com/convert/p3r68-cdx67/aniib-3d0ec.png"
+            // src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png"
             objectFit="contain"
             layout="fill"
             objectPosition="left"
