@@ -3,11 +3,11 @@ import {GlobeAltIcon,MenuIcon, UsersIcon,UserCircleIcon,SearchIcon} from "@heroi
 
 function Header() {
   return (
-    <div className="sticky top-0 z-100 grid grid-cols-3 bg-white shadow-md py-5 px-5 md:px-10">
+    <div className="sticky top-0 z-50 grid grid-cols-3 bg-white shadow-md py-5 px-5 md:px-10">
 
         <div className="relative flex items-center h-10 cursor-pointer my-auto">
             <Image 
-            src="https://s4.aconvert.com/convert/p3r68-cdx67/aniib-3d0ec.png"
+            src="https://i.ibb.co/4TNXqWC/Airbnb-Logo.png"
             // src="https://1000logos.net/wp-content/uploads/2017/08/Airbnb-Logo.png"
             objectFit="contain"
             layout="fill"
